@@ -9,5 +9,5 @@ public interface DiscountPolicy {
 
      */
 
-    int discout(Member member, int price);
+    int discount(Member member, int price);
 }
